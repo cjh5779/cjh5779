@@ -67,5 +67,5 @@
 - 소프트웨어특강II <br>
 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjh5779@naver.com)](https://solved.ac/{cjh5779@naver.com})
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=cjh5779@naver.com&theme=cold)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjh5779)](https://solved.ac/{cjh5779})
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=cjh5779&theme=cold)
