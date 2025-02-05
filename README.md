@@ -66,13 +66,12 @@
 - VR/AR/게임제작기초 <br>
 - 소프트웨어특강II <br>
 
-<div style="text-align: left;">
-    <img src="https://github-readme-stats.vercel.app/api?username=cjh5779&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+## 🏅 Stats
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=cjh5779&bg_color=30,91eae4,86A8E7&title_color=ffffff&text_color=ffffff&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjh5779&layout=compact&bg_color=30,91eae4,86A8E7&title_color=ffffff&text_color=ffffff&cache_seconds=86400" width="48%" />
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjh5779&show_icons=true&theme=dark)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjh5779)](https://solved.ac/cjh5779/)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjh5779)](https://solved.ac/cjh5779)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=cjh5779&theme=cold)
-
-
