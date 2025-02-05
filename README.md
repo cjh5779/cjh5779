@@ -67,7 +67,7 @@
 - 소프트웨어특강II <br>
 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjh5779)](https://solved.ac/{cjh5779})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjh5779)](https://solved.ac/cjh5779/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=cjh5779&theme=cold)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjh5779&show_icons=true&theme=dark)
