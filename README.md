@@ -1,10 +1,8 @@
-## 🖐️introduction
+## 🖐️Introduction
 - 이름: 최정환
 - 생년월일: 2002.11.01
 - 소속: 한림대학교 정보과학대학 소프트웨어학부 콘텐츠IT / 빅데이터
 - Email: cjh5779@naver.com
-
-<br>
 
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🛠️ Tech Stacks</h2>
@@ -42,3 +40,28 @@
         </a>
     </div>
 </div>
+
+<h2 style="text-align: left;">🏃‍♂️‍➡️ Activities </h2>
+<div>
+    <h4>교내 활동</h4>
+      <ul>
+          <li>2024 소프트웨어학부 제 6대 콘텐츠IT 학생회 'Clear' 총무국장</li>
+      </ul>
+    <h4>교외 활동</h4>
+      <ul>
+        <li>2024-동계 온라인 현직자 직무부트캠프-코멘토SQL</li>
+      </ul>
+</div>
+
+## 📚 수강 과목
+- 이산구조론 <br>
+- 자바프로그래밍I <br>
+- 선형대수 <br>
+- 오픈소스리눅스실무 <br>
+- 자바프로그래밍II <br>
+- 논리설계및실험 <br>
+- 자료구조 <br>
+- C프로그래밍 <br>
+- 파이썬과학프로그래밍기초 <br>
+- VR/AR/게임제작기초 <br>
+- 소프트웨어특강II <br>
