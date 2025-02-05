@@ -68,7 +68,7 @@
 
 ## 💻 프로젝트
 
-**마법소녀의 마을을 지키는 액션 어드벤처 게임 🔎 _[깃허브](https://github.com/ccchaeng/Basic-Of-VRAR-Game-Production.git)_**
+**마법소녀의 마을을 지키는 액션 어드벤처 게임 🔎 _[깃허브](https://github.com/cjh5779/VR-AR-Production)_**
 - *2024.11.08 ~ 2024.11.28*
 
 - 마법소녀의 마을을 침임한 골렘들과 그들의 왕을 마법을 통해 물리쳐 마을을 지키는 액션 어드벤처 게임
