@@ -65,3 +65,6 @@
 - 파이썬과학프로그래밍기초 <br>
 - VR/AR/게임제작기초 <br>
 - 소프트웨어특강II <br>
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjh5779)](https://solved.ac/cjh5779/)
