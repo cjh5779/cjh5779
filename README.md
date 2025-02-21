@@ -74,15 +74,3 @@
 - 마법소녀의 마을을 침임한 골렘들과 그들의 왕을 마법을 통해 물리쳐 마을을 지키는 액션 어드벤처 게임
 
 - 기술 스택: Unity Engine, C#
-
-
-
-## 🏅 Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cjh5779&bg_color=30,91eae4,86A8E7&title_color=ffffff&text_color=ffffff&cache_seconds=86400" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjh5779&layout=compact&bg_color=30,91eae4,86A8E7&title_color=ffffff&text_color=ffffff&cache_seconds=86400" width="48%" />
-</div>
-
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjh5779)](https://solved.ac/cjh5779)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=cjh5779&theme=cold)
