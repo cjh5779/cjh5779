@@ -65,8 +65,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339939?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Sass(SCSS)-CC6699?style=flat-square&logo=sass&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 
 **메인 UI 뷰**
-<!-- 저장소에 이미지를 업로드한 후, 아래 파일명 대신 실제 이미지 URL을 넣으세요 -->
-![개발바닥 메인화면](image_a0146e.jpg)
+![개발바닥 메인화면](474326317-f599f54e-44ba-4464-824c-dfa79a8e90df.png)
 
 **🧑‍💻 나의 주요 기여 및 담당 역할**
 * **프로젝트 기획 및 UI/UX 설계:** 전반적인 웹 서비스 기획을 주도하고, Figma를 활용하여 전체 화면 디자인 설계
