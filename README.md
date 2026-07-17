@@ -41,22 +41,6 @@
 
 ## 💻 Projects
 
-### 🐾 개발바닥 (GAEBALBADAK) - 개발자를 위한 커뮤니티 플랫폼 🔎 [깃허브](https://github.com/chaeeunkim30/gaebalbadak](https://github.com/cjh5779/gaebalbadak.git)
-> **"개발자들의 바닥까지 파헤치는 공간, 세상을 움직이는 코드 여기서 시작됩니다."**  
-> **기간:** 2025.02.13 ~ 2025.04.01
-
-커뮤니티를 통한 코드 질문과 오류 해결, 스터디 모집, 대회 및 부트캠프 공고 등 개발자들을 위한 다양한 맞춤형 정보를 제공하는 웹 서비스입니다.
-
-* **사용 기술:** <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339939?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Sass(SCSS)-CC6699?style=flat-square&logo=sass&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-* **메인 UI 뷰:**  
-  ![개발바닥 메인화면](474326317-f599f54e-44ba-4464-824c-dfa79a8e90df.png)
-* **🧑‍💻 나의 주요 기여 및 담당 역할**
-  * **프로젝트 기획 및 UI/UX 설계:** 전반적인 웹 서비스 기획을 주도하고, Figma를 활용하여 전체 화면 디자인 설계
-  * **메인 페이지 전담 및 라우팅 구현:** React를 활용해 메인 홈 화면(대시보드) UI를 전담하여 개발하고, 각 게시판 카테고리 클릭 시 상세 페이지로 동적 이동하도록 라우팅(Routing) 로직 구현
-  * **인증 시스템 및 컴포넌트 최적화:** 재사용 가능한 컴포넌트 기반으로 로그인 및 회원가입 페이지를 구축하고, Firebase(Authentication, Firestore)를 연동하여 안전한 사용자 인증 및 DB 처리 파이프라인 완성
-
-<br>
-
 ### 👕 Hambugi - AI 기반 패션 추천 모바일 애플리케이션 🔎 [깃허브](https://github.com/cjh5779/Hambugibugi)
 > **"나만의 AI 스타일리스트, 스마트한 패션의 완성"**  
 > **기간:** 2025년 하반기 (캡스톤 디자인)
@@ -75,6 +59,27 @@
   * **모바일 UI/UX 및 전체 화면 퍼블리싱:** Figma를 활용하여 디자인을 기획하고, React Native와 Expo를 활용하여 메인 화면, 이미지 업로드, 추천 결과 뷰 등 직관적이고 사용자 친화적인 전체 앱 화면 레이아웃 설계 및 구현
   * **네비게이션 및 컴포넌트 모듈화:** React Navigation을 적용하여 로그인 및 메인 탭 간의 매끄러운 화면 전환(Routing) 로직을 구축하고, 재사용 가능한 UI 컴포넌트를 분리하여 코드 유지보수성 향상
   * **로그인 뷰 및 디바이스 제어 로직:** 사용자 인증을 위한 로그인 페이지 UI 및 폼(Form) 상태 관리를 구현하고, 사용자의 사진 업로드를 위한 디바이스 갤러리/카메라 접근 권한 등 모바일 프론트엔드 핵심 기능 세팅
+
+<br>
+
+### 🐾 개발바닥 (GAEBALBADAK) - 개발자를 위한 커뮤니티 플랫폼 🔎 [깃허브](https://github.com/cjh5779/gaebalbadak)
+> **"개발자들의 바닥까지 파헤치는 공간, 세상을 움직이는 코드 여기서 시작됩니다."**  
+> **기간:** 2025.02.13 ~ 2025.04.01
+
+커뮤니티를 통한 코드 질문과 오류 해결, 스터디 모집, 대회 및 부트캠프 공고 등 개발자들을 위한 다양한 맞춤형 정보를 제공하는 웹 서비스입니다.
+
+* **사용 기술:** <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339939?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Sass(SCSS)-CC6699?style=flat-square&logo=sass&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+
+**💻 나의 구현 화면 (Screenshots)**
+
+| 메인 홈 화면 | 질문할래 게시판 | 같이할래 게시판 | 신청할래 게시판 |
+| :---: | :---: | :---: | :---: |
+| <img src="474326317-f599f54e-44ba-4464-824c-dfa79a8e90df.png" width="200" /> | <img src="질문할래.jpg" width="200" /> | <img src="같이할래.jpg" width="200" /> | <img src="신청할래.jpg" width="200" /> |
+
+* **🧑‍💻 나의 주요 기여 및 담당 역할**
+  * **프로젝트 기획 및 UI/UX 설계:** 전반적인 웹 서비스 기획을 주도하고, Figma를 활용하여 전체 화면 디자인 설계
+  * **게시판 UI 및 라우팅 구현:** React를 활용해 메인 홈 화면과 '질문할래', '같이할래', '신청할래' 등 핵심 게시판 UI를 직접 전담하여 개발하고, 각 카테고리 클릭 시 상세 페이지로 동적 이동하도록 라우팅(Routing) 로직 구현
+  * **인증 시스템 및 컴포넌트 최적화:** 재사용 가능한 컴포넌트 기반으로 로그인 및 회원가입 페이지를 구축하고, Firebase(Authentication, Firestore)를 연동하여 안전한 사용자 인증 및 DB 처리 파이프라인 완성
 
 <br>
 
