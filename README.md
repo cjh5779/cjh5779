@@ -57,13 +57,22 @@
 
 <br>
 
-### 👕 AI 기반 패션 추천 모바일 애플리케이션 (캡스톤 프로젝트)
-> **기간:** 2025년 하반기
+### 👕 Hambugi - AI 기반 패션 추천 모바일 애플리케이션 🔎 [깃허브](https://github.com/cjh5779/Hambugibugi)
+> **"나만의 AI 스타일리스트, 스마트한 패션의 완성"**  
+> **기간:** 2025년 하반기 (캡스톤 디자인)
 
-사용자의 이미지를 분석하여 최적의 패션을 추천하는 AI 모델 연동 모바일 앱 서비스입니다.
+사용자의 이미지를 분석하여 최적의 패션을 추천해 주는 AI 모델 연동 모바일 앱 서비스입니다. AI 모델(YOLOv8, CLIP) 파이프라인 및 전체 아키텍처에 대한 상세한 내용은 깃허브 리포지토리에서 확인하실 수 있습니다.
 
-* **사용 기술:** React Native, Python, YOLOv8, CLIP
-* **핵심 성과:** YOLOv8 및 CLIP 백본을 활용한 이미지 분석 파이프라인 구축 및 React Native 모바일 환경과의 성공적인 추천 API 연동
+* **사용 기술:** <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/YOLOv8-FFD700?style=flat-square&logoColor=black"/> <img src="https://img.shields.io/badge/OpenCLIP-4B0082?style=flat-square&logoColor=white"/>
+## 📱 앱 화면 미리보기 (Screenshots)
+
+| 메인 (시작 화면) | 로그인 화면 | AI 분석 및 추천 결과 |
+| :---: | :---: | :---: |
+| <img src="image_2e45e1.jpg" width="250" /> | <img src="image_2e45fe.jpg" width="250" /> | <img src="image_2e45fb.png" width="250" /> |
+* **🧑‍💻 나의 주요 기여 및 담당 역할 (Frontend)**
+  * **모바일 UI/UX 및 전체 화면 퍼블리싱:** React Native와 Expo를 활용하여 메인 화면, 이미지 업로드, 추천 결과 뷰 등 직관적이고 사용자 친화적인 전체 앱 화면 레이아웃 설계 및 구현
+  * **네비게이션 및 컴포넌트 모듈화:** React Navigation을 적용하여 로그인 및 메인 탭 간의 매끄러운 화면 전환(Routing) 로직을 구축하고, 재사용 가능한 UI 컴포넌트를 분리하여 코드 유지보수성 향상
+  * **로그인 뷰 및 디바이스 제어 로직:** 사용자 인증을 위한 로그인 페이지 UI 및 폼(Form) 상태 관리를 구현하고, 사용자의 사진 업로드를 위한 디바이스 갤러리/카메라 접근 권한 등 모바일 프론트엔드 핵심 기능 세팅
 
 <br>
 
