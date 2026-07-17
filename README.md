@@ -59,6 +59,21 @@
 
 <br>
 
+### 📝 AI 생성 텍스트 분류 모델 개발 (TEAM) 🔎 [깃허브](https://github.com/cjh5779/AI-Text-Classifier)
+> **"사람과 AI의 문장, 그 미세한 차이를 판별하다"**  
+> **기간:** 2025.05.13 ~ 2025.05.26
+
+주어진 텍스트가 AI에 의해 생성된 것인지, 사람이 직접 작성한 것인지 정확하게 구분해 내는 이진 분류(Binary Classification) AI 모델 개발 프로젝트입니다.
+
+* **사용 기술:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+
+* **🧑‍💻 나의 주요 기여 및 담당 역할**
+  * **자연어 처리 모델 구조 설계:** 한국어 텍스트 특성에 맞춰 KLUE BERT 토크나이저 및 임베딩을 적용하고, 문맥의 순차적 정보를 잘 반영하는 LSTM 기반의 분류기(Classifier)를 결합하여 하이브리드 모델 구축
+  * **모델 최적화 및 하이퍼파라미터 튜닝:** 경험적 탐색 과정을 거쳐 모델 파라미터를 세팅하고, AdamW 옵티마이저와 Scheduler를 활용해 학습률(Learning Rate)을 동적으로 조절하며 학습 안정성 및 성능 극대화
+  * **K-Fold 교차 검증 및 앙상블 기법 적용:** 과적합을 방지하고 일반화 성능을 향상시키기 위해 K-Fold (k=5) 교차 검증을 도입하여 5개의 개별 모델을 학습시킨 후, Soft Voting 앙상블 기법으로 최종 예측 결과를 도출하여 테스트 정확도(Accuracy) 향상
+ 
+<br>
+
 ### 🐾 개발바닥 (GAEBALBADAK) - 개발자를 위한 커뮤니티 플랫폼 🔎 [깃허브](https://github.com/cjh5779/gaebalbadak)
 > **"개발자들의 바닥까지 파헤치는 공간, 세상을 움직이는 코드 여기서 시작됩니다."**  
 > **기간:** 2025.02.13 ~ 2025.04.01
