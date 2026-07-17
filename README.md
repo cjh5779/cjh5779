@@ -41,7 +41,7 @@
 
 ## 💻 Projects
 
-### 🐾 개발바닥 (GAEBALBADAK) - 개발자를 위한 커뮤니티 플랫폼 🔎 [깃허브](https://github.com/chaeeunkim30/gaebalbadak)
+### 🐾 개발바닥 (GAEBALBADAK) - 개발자를 위한 커뮤니티 플랫폼 🔎 [깃허브](https://github.com/chaeeunkim30/gaebalbadak](https://github.com/cjh5779/gaebalbadak.git)
 > **"개발자들의 바닥까지 파헤치는 공간, 세상을 움직이는 코드 여기서 시작됩니다."**  
 > **기간:** 2025.02.13 ~ 2025.04.01
 
