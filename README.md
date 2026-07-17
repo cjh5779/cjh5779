@@ -92,3 +92,14 @@
 마법소녀의 마을을 침임한 골렘들과 그들의 왕을 마법을 통해 물리쳐 마을을 지키는 액션 어드벤처 게임입니다.
 
 * **사용 기술:** Unity Engine, C#
+
+**🎮 게임 플레이 화면 (Screenshots)**
+
+| 맵 전경 | 보스 몬스터 스킬 | 캐릭터 궁극기 | 게임 종료 화면 |
+| :---: | :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/2a898846-9add-4200-b77f-388b2a78d844" width="200" alt="맵전경" /> | <img src="https://github.com/user-attachments/assets/5a71e831-a3d8-4299-ac07-6e736e557cb7" width="200" alt="보스 궁극기" /> | <img src="https://github.com/user-attachments/assets/60852068-4650-4119-9107-1f18a1358ce3" width="200" alt="캐릭터 궁극기" /> | <img src="https://github.com/user-attachments/assets/c2ff73f4-50b8-47a7-8aac-ad439a4e53f0" width="200" alt="게임 종료" /> |
+
+* **🧑‍💻 나의 주요 기여 및 담당 역할**
+  * **맵 디자인 및 환경 구성:** Unity 씬(Scene)을 활용하여 게임의 배경이 되는 전체적인 마을 맵 레이아웃을 기획하고 각종 에셋과 오브젝트를 배치하여 게임 환경 구축
+  * **메인 캐릭터 스킬 로직 개발:** 플레이어(마법소녀)의 궁극기 등 전투 스킬 메커니즘을 C# 스크립트로 구현하여 타격감 있고 매끄러운 액션 시스템 개발
+  * **몬스터 상호작용 및 이펙트 처리:** 보스 및 적(골렘)이 플레이어를 공격할 때 발생하는 시각적 이펙트와 피격 판정 상호작용을 구현하여 게임의 긴장감과 몰입도 향상
