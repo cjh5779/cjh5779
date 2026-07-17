@@ -61,9 +61,9 @@
 > **"나만의 AI 스타일리스트, 스마트한 패션의 완성"**  
 > **기간:** 2025년 하반기 (캡스톤 디자인)
 
-사용자의 이미지를 분석하여 최적의 패션을 추천해 주는 AI 모델 연동 모바일 앱 서비스입니다. AI 모델(YOLOv8, CLIP) 파이프라인 및 전체 아키텍처에 대한 상세한 내용은 깃허브 리포지토리에서 확인하실 수 있습니다.
+사용자의 이미지를 분석하여 최적의 패션을 추천해 주는 AI 모델 연동 모바일 앱 서비스입니다. 본 리포지토리는 사용자와 맞닿는 모바일 프론트엔드 구현 코드를 담고 있습니다.
 
-* **사용 기술:** <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/YOLOv8-FFD700?style=flat-square&logoColor=black"/> <img src="https://img.shields.io/badge/OpenCLIP-4B0082?style=flat-square&logoColor=white"/>
+* **사용 기술:** <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
 
 **📱 앱 화면 미리보기 (Screenshots)**
 
