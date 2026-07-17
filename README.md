@@ -74,7 +74,7 @@
 
 | 메인 홈 화면 | 질문할래 게시판 | 같이할래 게시판 | 신청할래 게시판 |
 | :---: | :---: | :---: | :---: |
-| <img src="474326317-f599f54e-44ba-4464-824c-dfa79a8e90df.png" width="200" /> | <img src="질문할래.jpg" width="200" /> | <img src="같이할래.jpg" width="200" /> | <img src="신청할래.jpg" width="200" /> |
+| <img src="474326317-f599f54e-44ba-4464-824c-dfa79a8e90df.png" width="200" /> | <img src="https://github.com/user-attachments/assets/50e605bf-b079-491e-b428-4aadadb6c26e" width="200" /> | <img src="https://github.com/user-attachments/assets/08f8a2cf-1932-4874-a5a9-36c860dc0106" width="200" /> | <img src="https://github.com/user-attachments/assets/fba006f3-3153-4644-97ed-c1c92c6becb5" width="200" /> |
 
 * **🧑‍💻 나의 주요 기여 및 담당 역할**
   * **프로젝트 기획 및 UI/UX 설계:** 전반적인 웹 서비스 기획을 주도하고, Figma를 활용하여 전체 화면 디자인 설계
