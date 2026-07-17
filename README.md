@@ -2,7 +2,7 @@
 - **이름:** 최정환
 - **생년월일:** 2002.11.01
 - **소속:** 한림대학교 정보과학대학 소프트웨어학부 콘텐츠IT / 빅데이터
-- **Email:** choijh5779@gmail.com
+- **Email:** cjh5779@naver.com
 
 <br>
 
@@ -31,13 +31,14 @@
 ## 🏃‍♂️‍➡️ Activities 
 
 **교내 활동**
-* 2026 소프트웨어학부 제 8대 콘텐츠IT 학생회 'UNION' 사무부장
-* 2025.05 한림대학교 디지털 경진대회 참가
-* 2025 소프트웨어학부 씨애랑 학술동아리 부원
 * 2024 소프트웨어학부 제 6대 콘텐츠IT 학생회 'Clear' 총무국장
+* 소프트웨어학부 제 8대 콘텐츠IT 학생회 '유니온' 사무부장
+* 2025.05 한림대학교 디지털 경진대회 참가
+* 2026.03 공과대학 학생회 신입생 환영회(개총) 행사 기획 및 진행
 
 **교외 활동**
-* 2026.06 ~ 2026.12 [현대이지웰] Java 풀스택 개발자 부트캠프
+* 멀티캠퍼스 풀스택 부트캠프 (진행 중)
+* 2025 소프트웨어학부 씨애랑 학술동아리 부원
 * 2024-동계 온라인 현직자 직무부트캠프-코멘토SQL
 
 <br>
@@ -56,7 +57,7 @@
 
 | 메인 (시작 화면) | 로그인 화면 | 로딩 화면 | AI 분석 및 추천 결과 |
 | :---: | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/c344fba0-c82d-4f4f-b2cf-175b889f7a90" width="150" /> | <img src="https://github.com/user-attachments/assets/9aaf8ed7-99af-496e-b9eb-356e9d21b4e6" width="150" /> | <img src="https://github.com/user-attachments/assets/1d8e6bf0-5192-41d4-94f4-d3a51a61737b" width="150" /> | <img src="https://github.com/user-attachments/assets/83e757cb-50e7-417b-a135-da7dadef3e5b" width="150" /> |
+| <img src="메인.png" width="150" /> | <img src="로그인.png" width="150" /> | <img src="로딩.jpg" width="150" /> | <img src="AI 분석.png" width="150" /> |
 
 * **🧑‍💻 나의 주요 기여 및 담당 역할 (Frontend)**
   * **모바일 UI/UX 및 전체 화면 퍼블리싱:** Figma를 활용하여 디자인을 기획하고, React Native와 Expo를 활용하여 메인 화면, 이미지 업로드, 추천 결과 뷰 등 직관적이고 사용자 친화적인 전체 앱 화면 레이아웃 설계 및 구현
@@ -77,7 +78,7 @@
 
 | 메인 홈 화면 | 질문할래 게시판 | 같이할래 게시판 | 신청할래 게시판 |
 | :---: | :---: | :---: | :---: |
-| <img src="474326317-f599f54e-44ba-4464-824c-dfa79a8e90df.png" width="200" /> | <img src="https://github.com/user-attachments/assets/50e605bf-b079-491e-b428-4aadadb6c26e" width="200" /> | <img src="https://github.com/user-attachments/assets/08f8a2cf-1932-4874-a5a9-36c860dc0106" width="200" /> | <img src="https://github.com/user-attachments/assets/fba006f3-3153-4644-97ed-c1c92c6becb5" width="200" /> |
+| <img src="474326317-f599f54e-44ba-4464-824c-dfa79a8e90df.png" width="200" /> | <img src="질문할래.jpg" width="200" /> | <img src="같이할래.jpg" width="200" /> | <img src="신청할래.jpg" width="200" /> |
 
 * **🧑‍💻 나의 주요 기여 및 담당 역할**
   * **프로젝트 기획 및 UI/UX 설계:** 전반적인 웹 서비스 기획을 주도하고, Figma를 활용하여 전체 화면 디자인 설계
@@ -97,7 +98,7 @@
 
 | 맵 전경 | 보스 몬스터 스킬 | 캐릭터 궁극기 | 게임 종료 화면 |
 | :---: | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/2a898846-9add-4200-b77f-388b2a78d844" width="200" alt="맵전경" /> | <img src="https://github.com/user-attachments/assets/5a71e831-a3d8-4299-ac07-6e736e557cb7" width="200" alt="보스 궁극기" /> | <img src="https://github.com/user-attachments/assets/60852068-4650-4119-9107-1f18a1358ce3" width="200" alt="캐릭터 궁극기" /> | <img src="https://github.com/user-attachments/assets/c2ff73f4-50b8-47a7-8aac-ad439a4e53f0" width="200" alt="게임 종료" /> |
+| <img src="맵전경.jpg" width="200" alt="맵전경" /> | <img src="보스 궁극기.jpg" width="200" alt="보스 궁극기" /> | <img src="캐릭터 궁극기.jpg" width="200" alt="캐릭터 궁극기" /> | <img src="게임 종료.jpg" width="200" alt="게임 종료" /> |
 
 * **🧑‍💻 나의 주요 기여 및 담당 역할**
   * **맵 디자인 및 환경 구성:** Unity 씬(Scene)을 활용하여 게임의 배경이 되는 전체적인 마을 맵 레이아웃을 기획하고 각종 에셋과 오브젝트를 배치하여 게임 환경 구축
