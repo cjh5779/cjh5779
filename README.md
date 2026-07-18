@@ -40,6 +40,26 @@
 
 ## 💻 Projects
 
+### 📚 Book Manager - 도서 관리 UI 애플리케이션 🔎 [깃허브](https://github.com/cjh5779/book-manager)
+> **"React 컴포넌트 기반의 직관적인 도서 관리 정적 페이지"**  
+> **기간:** 202X.XX ~ 202X.XX (진행 기간 입력)
+
+React의 컴포넌트 기반 UI 구성과 정적 데이터 렌더링(Static Data Rendering)을 연습하기 위해 로컬 환경에서 개발한 토이 프로젝트입니다.
+
+* **사용 기술:** <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+**💻 구현 화면 (Screenshots)**
+
+| 도서 목록 (메인 화면) |
+| :---: |
+| <img src="여기에_이미지_경로_입력.png" width="400" /> |
+
+* **🧑‍💻 나의 주요 기여 및 담당 역할**
+  * **정적 데이터 렌더링:** 별도의 상태(State) 변화 없이 정적 데이터(Mock Data)와 자바스크립트의 `map()` 함수를 활용하여 전체 도서 목록 리스트 화면 구현
+  * **컴포넌트 분리 및 구조화:** UI 재사용성과 유지보수성을 높이기 위해 전체 화면을 여러 하위 컴포넌트로 분리하고 구조적인 화면 배치 설계
+  * **Props 기반 데이터 전달:** 상위 컴포넌트에서 하위 컴포넌트로 데이터(Props)를 전달하여 화면에 그려내는 React의 단방향 데이터 흐름 적용
+
+
 ### 👕 Hambugi - AI 기반 패션 추천 모바일 애플리케이션 🔎 [깃허브](https://github.com/cjh5779/Hambugibugi)
 > **"나만의 AI 스타일리스트, 스마트한 패션의 완성"**  
 > **기간:** 2025년 하반기 (캡스톤 디자인)
