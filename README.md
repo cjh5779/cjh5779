@@ -45,7 +45,7 @@
 
 React의 컴포넌트 기반 UI 구성과 정적 데이터 렌더링(Static Data Rendering)을 연습하기 위해 로컬 환경에서 개발한 토이 프로젝트입니다.
 
-* **사용 기술:** <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+* **사용 기술:** <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white"/>
 
 **💻 구현 화면 (Screenshots)**
 
