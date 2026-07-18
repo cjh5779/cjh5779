@@ -42,7 +42,6 @@
 
 ### 📚 Book Manager - 도서 관리 UI 애플리케이션 🔎 [깃허브](https://github.com/cjh5779/book-manager)
 > **"React 컴포넌트 기반의 직관적인 도서 관리 정적 페이지"**  
-> **기간:** 202X.XX ~ 202X.XX (진행 기간 입력)
 
 React의 컴포넌트 기반 UI 구성과 정적 데이터 렌더링(Static Data Rendering)을 연습하기 위해 로컬 환경에서 개발한 토이 프로젝트입니다.
 
@@ -57,7 +56,7 @@ React의 컴포넌트 기반 UI 구성과 정적 데이터 렌더링(Static Data
 * **🧑‍💻 나의 주요 기여 및 담당 역할**
   * **MUI 및 CSS Grid 기반 UI 설계:** Material-UI(MUI) 라이브러리의 내장 컴포넌트를 활용하여 빠르고 일관된 디자인의 웹 페이지를 꾸미고, CSS Grid 레이아웃을 적용하여 도서 목록을 직관적인 그리드 형태로 배치
   * **정적 데이터 렌더링:** 별도의 상태(State) 변화 없이 정적 데이터(Mock Data)와 자바스크립트의 `map()` 함수를 활용하여 리스트 화면 구현
-  * **컴포넌트 분리 및 데이터 전달:** UI 재사용성과 유지보수성을 높이기 위해 화면을 여러 하위 컴포넌트로 분리하고, 상위 컴포넌트에서 하위로 데이터(Props)를 전달하는 React의 단방향 데이터 흐름 적용
+  * **children prop을 활용한 컴포넌트 합성:** UI 재사용성과 유지보수성을 높이기 위해 전체 화면을 분리하고, React의 `children` prop을 적극 활용하여 상위 래퍼(Wrapper) 컴포넌트 내부로 정보와 UI 요소를 유연하게 전달하는 구조 적용
 
 
 ### 👕 Hambugi - AI 기반 패션 추천 모바일 애플리케이션 🔎 [깃허브](https://github.com/cjh5779/Hambugibugi)
