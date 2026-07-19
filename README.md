@@ -40,6 +40,25 @@
 
 ## 💻 Projects
 
+### 🎮 Tic-Tac-Toe - React 기본 개념 실습 🔎 [깃허브](https://github.com/cjh5779/리포지토리이름)
+> **"React의 핵심인 컴포넌트 분리와 불변성을 이해하는 첫걸음"**  
+> **기간:** 2026.07 (실습)
+
+React 공식 문서의 틱택토(Tic-Tac-Toe) 튜토리얼을 따라가며, 컴포넌트 간의 데이터 전달과 배열의 불변성(Immutability) 유지, 그리고 동적인 UI 업데이트 로직을 학습하기 위해 진행한 실습 프로젝트입니다.
+
+* **사용 기술:** <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+**💻 구현 화면 (Screenshots)**
+
+| 게임 진행 화면 | 승리 판정 화면 |
+| :---: | :---: |
+| <img src="게임 진행 화면.jpg" width="250" /> | <img src="승리 판정 화면.jpg" width="250" /> |
+
+* **🧑‍💻 주요 학습 내용 및 구현 로직**
+  * **상태 끌어올리기 (Lifting State Up):** 개별 격자(Square) 컴포넌트가 아닌 상위 부모 컴포넌트(Board)에서 데이터를 관리하도록 설계하여, 여러 자식 컴포넌트 간의 데이터를 원활하게 공유하고 동기화하는 React의 단방향 데이터 흐름 학습
+  * **불변성(Immutability)과 최적화:** 배열 데이터를 직접 수정하지 않고 `slice()` 또는 스프레드 연산자를 활용해 새로운 복사본을 생성하여 업데이트함으로써, React가 데이터 변화를 감지하고 렌더링을 최적화하는 원리 이해
+  * **시간 여행(Time Travel) 기능 구현:** 매 턴마다의 보드 기록(History)을 배열에 저장하고, `map()` 함수를 활용해 과거의 특정 시점으로 게임을 되돌릴 수 있는 동적인 UI 버튼과 복원 로직 구현
+
 ### 📚 Book Manager - 도서 관리 UI 애플리케이션 🔎 [깃허브](https://github.com/cjh5779/book-manager)
 > **"React 컴포넌트 기반의 직관적인 도서 관리 정적 페이지"**  
 
