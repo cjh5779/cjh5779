@@ -42,7 +42,7 @@
 
 ### 🎮 Tic-Tac-Toe - React 기본 개념 실습 🔎 [깃허브](https://github.com/cjh5779/react-todo-app)
 > **"React의 핵심인 컴포넌트 분리와 불변성을 이해하는 첫걸음"**  
-> **기간:** 2026.07 (실습)
+> **기간:** 2026.07
 
 React 공식 문서의 틱택토(Tic-Tac-Toe) 튜토리얼을 따라가며, 컴포넌트 간의 데이터 전달과 배열의 불변성(Immutability) 유지, 그리고 동적인 UI 업데이트 로직을 TypeScript 환경에서 학습하기 위해 진행한 실습 프로젝트입니다.
 
